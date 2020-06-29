@@ -1,0 +1,34 @@
+body{
+    background: url(pic1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    padding-top: 3%;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+h1:hover{
+    color: #faf10b;
+}
+td{
+    height: 60px;
+    width: 60px;
+}
+#black{
+    background: black;
+}
+#white{
+    background: white;
+}
+table{
+    margin: auto;
+    border: #ffffff 7px solid;
+}
+#white:hover{
+    background: red;
+}
+#black:hover{
+    background: red;
+}
